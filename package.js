@@ -2,9 +2,9 @@ Package.describe({
   name: 'instafeed',
   version: '1.0.0',
   // Brief, one-line summary of the package.
-  summary: '',
+  summary: 'Dead-simple way to add Instagram photos to your website. No jQuery required, just good ol plain javascript.',
   // URL to the Git repository containing the source code for this package.
-  git: '',
+  git: 'https://github.com/Ethaan/instafeed-meteor',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'
